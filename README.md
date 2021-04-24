@@ -1,9 +1,10 @@
 # Overview
 
-This is a basic hello world program. I created it to learn how to use of Visual Studio, Github, and Python integrated together.
+This is a basic hello world program. I created it to learn how to use of Visual Studio, Github, and Python integrated together. Because I'm redoing this assignment, the updated software demo video is the Spring 2021 Software Demo Video.
 
 [Software Demo Video](https://youtu.be/h76JWggyjqAh)
 
+[Spring 2021 Software Demo Video]()
 # Development Environment
 
 * Visual Studio Code
